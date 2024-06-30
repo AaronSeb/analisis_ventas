@@ -1,0 +1,191 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 269.51902516953663,
+            "y": 0
+          },
+          "nodeIndex": "CLIENTES",
+          "nodeLineageTag": "c5003ca0-724f-4118-a605-a3a866cd70c0",
+          "size": {
+            "height": 296,
+            "width": 234
+          },
+          "zIndex": 12
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 31.012615436473943
+          },
+          "nodeIndex": "GRUPO_CLIENTE",
+          "nodeLineageTag": "b477fa01-9de4-405c-b386-de1ae92bdde9",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 8
+        },
+        {
+          "location": {
+            "x": 522.18486485276844,
+            "y": 227.52075449882724
+          },
+          "nodeIndex": "LOCALIDAD",
+          "nodeLineageTag": "4df53dc7-d47c-498c-a2d1-edb297d2f224",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 9
+        },
+        {
+          "location": {
+            "x": 1170.5515778896824,
+            "y": 210.26921132389512
+          },
+          "nodeIndex": "TIPO_PRODUCTO",
+          "nodeLineageTag": "f9fb6679-dd56-4dd8-bde9-2f21584ece0a",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1173.6103127811923,
+            "y": 360.73689310012935
+          },
+          "nodeIndex": "PRODUCTO",
+          "nodeLineageTag": "d6e28007-7f0d-4408-bd0b-703b6875d673",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 10
+        },
+        {
+          "location": {
+            "x": 271.20120626817328,
+            "y": 576.03039663787183
+          },
+          "nodeIndex": "CANAL_VENTA",
+          "nodeLineageTag": "a7d76ad7-1794-4dba-90e3-ca34996f32c6",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 573.44174150144977
+          },
+          "nodeIndex": "SUCURSAL",
+          "nodeLineageTag": "49127b25-a178-4599-9a1f-34a49225cd30",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 0,
+            "y": 300.92293592584872
+          },
+          "nodeIndex": "combina_pedido_sucursal_id_cliente",
+          "nodeLineageTag": "8937f719-97f2-47b8-aeaa-d083e02c2e16",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 7
+        },
+        {
+          "location": {
+            "x": 582.82975201174509,
+            "y": 377.84762480273548
+          },
+          "nodeIndex": "PEDIDO",
+          "nodeLineageTag": "0df59135-992f-4c64-9c9e-a2777f9391e6",
+          "size": {
+            "height": 215.59829040322427,
+            "width": 234
+          },
+          "zIndex": 11
+        },
+        {
+          "location": {
+            "x": 877.98690950214757,
+            "y": 363.69356053443965
+          },
+          "nodeIndex": "DETALLE_PEDIDO",
+          "nodeLineageTag": "1d2797e0-fa49-4eb3-aa20-cc05a08dd07f",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 1020.8794215245146,
+            "y": 689.63332573537411
+          },
+          "nodeIndex": "MEDIDAS",
+          "nodeLineageTag": "11f87d5d-7607-479d-835f-4d3c81375f30",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 577.06441127688527,
+            "y": 682.486499885716
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "cfe8c4c6-b78a-4036-b90f-7a44865580e6",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 667.569904779181,
+            "y": 0
+          },
+          "nodeIndex": "Calendario_cli",
+          "nodeLineageTag": "f5e86c1c-5fd3-4f48-86b6-72e40a9d1f12",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 13
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 79.55318203769977,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
